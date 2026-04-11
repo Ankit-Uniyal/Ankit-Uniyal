@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://ankituniyalprofile.com/)
 [![AI Risk Navigator](https://img.shields.io/badge/AI_Risk_Navigator-0D1117?style=for-the-badge&logo=openai&logoColor=white)](https://dapper-parfait-b1e231.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankituniyal619@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ankit-Uniyal&style=for-the-badge&color=0e75b6)](https://github.com/Ankit-Uniyal)
+![Profile Views](https://komarev.com/ghpvc/?username=Ankit-Uniyal&color=blue&style=for-the-badge)
 
 </div>
 
@@ -16,146 +16,60 @@
 
 ## 🛡️ About Me
 
-> *"Compliance isn't about saying no — it's about building frameworks that let organizations say yes, safely."*
+I'm Ankit — a GRC and Information Security professional based in Dubai, UAE. I've spent the last decade helping organisations figure out what their real risks are (not just what looks good on a dashboard), and building systems to actually do something about them.
 
-I'm a **GRC & Information Security Leader** based in **Dubai, UAE** with **10+ years** of experience turning Governance, Risk & Compliance from a compliance checkbox into a strategic weapon for enterprises spanning healthcare, banking, fintech, and beyond.
+Right now I'm the GRC Lead at PureHealth Group — the UAE's largest healthcare platform. That means overseeing compliance across 100+ hospitals and 4,000+ controls, which sounds impressive until you're the one responsible for making it actually work. The thing I'm most proud of there is bringing KPI breach rates down from 40% to 3%. That took a lot of persuasion, process redesign, and more than a few late nights.
 
-Currently leading **AI Governance & Enterprise Risk at PureHealth Group** — the UAE's largest healthcare platform — overseeing 4,000+ controls across 100+ hospitals.
+Before PureHealth, I worked at Oman Arab Bank, Equifax, Deloitte, and PwC. Each was a different challenge — banking regulations, fintech audit, Big 4 consulting. What they had in common was that compliance was often treated as a box-ticking exercise. I've always pushed back on that.
 
-- 🔐 **Specialization:** Information Security | GRC | AI Governance | IT Audits
-- 🌍 **Location:** Dubai, UAE
-- 🏥 **Current Role:** GRC Lead — PureHealth Group (Abu Dhabi, UAE)
-- 🎯 **Impact:** 40% → 3% KPI breach reduction | Zero major non-conformities | 35% faster project delivery
-- 🤖 **AI Focus:** ISO 42001 | EU AI Act | NIST AI RMF | AI Security & Governance
+Lately I've been going deep on AI Governance. ISO 42001 just dropped and the EU AI Act is becoming real — and most organisations have no idea how to actually implement either. That's the gap I'm trying to close, both in my day job and through some open-source work here on GitHub.
 
 ---
 
-## 📊 By the Numbers
+## 📊 Career in Brief
 
-<div align="center">
-
-| 🛡️ 10+ Years in GRC | 🏥 100+ Facilities Secured | 📋 4,000+ Controls Monitored | 🌍 20+ Multi-national Audits |
-|---|---|---|---|
-
-</div>
-
----
-
-## 💼 Career Journey
-
-| Period | Role | Organisation | Highlight |
-|---|---|---|---|
-| 🟢 **2025–Present** | **GRC Lead** | **PureHealth Group**, Abu Dhabi | 40→3% KPI breach reduction; 4,000+ controls across 100+ SEHA hospitals |
-| 🔵 2024–2025 | IT Assurance & Compliance Manager | Oman Arab Bank, Muscat | AI-powered dashboards; 60% high-risk issues resolved; Board-level reporting |
-| 🟡 2024 | Information Security Manager | Equifax, India | 100% audit readiness ISO 27001/42001/RBI in 4 months; Google Gemini AI integration |
-| 🟠 2022–2024 | Deputy Manager | Deloitte, India | SOC 2, ISO 27001, ISO 22301, ITGC, NIST audits; led 4 senior consultants |
-| 🔴 2021–2022 | Assistant Manager | PwC, India | 100% risk control coverage; multi-sector: Oil & Gas, Fintech, Retail |
+| Period | Role | Where | What I actually did |
+|--------|------|--------|---------------------|
+| 2025–Present | GRC Lead | PureHealth Group, Abu Dhabi | Reduced KPI breaches from 40% → 3%; built compliance programme across 100+ SEHA facilities |
+| 2024–2025 | IT Assurance & Compliance Manager | Oman Arab Bank, Muscat | Built AI-powered dashboards for audit tracking; resolved 60% of high-risk findings; reported to Board |
+| 2024 | Information Security Manager | Equifax, India | Got to ISO 27001/42001/RBI readiness in 4 months; integrated Google Gemini for compliance workflows |
+| 2022–2024 | Deputy Manager | Deloitte, India | Led SOC 2, ISO 27001, ISO 22301, NIST audits; managed a team of 4 senior consultants |
+| 2021–2022 | Assistant Manager | PwC, India | Covered risk and controls across Oil & Gas, Fintech, and Retail |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I'm Building
 
-### 🤖 [AI Risk Navigator](https://dapper-parfait-b1e231.netlify.app/) — *Live Project*
-> *"Know your AI risks. Before they know you."*
+### AI Risk Navigator
+A free tool for assessing AI risk without needing to read 500-page frameworks first. Four questions, about five minutes, plain-language results. It covers ISO 42001, the EU AI Act, NIST AI RMF, and a few others — and works whether you're a beginner trying to understand what's at risk, or an auditor who needs structured outputs.
 
-**The Problem:** Most AI risk guidance is 500-page PDFs written by experts, for experts.  
-**My Solution:** A free, accessible AI risk assessment tool — 4 questions, 5 minutes, plain-language results.
+[Try it here →](https://dapper-parfait-b1e231.netlify.app/)
 
-| Feature | Detail |
-|---|---|
-| 📐 Frameworks covered | ISO 42001, EU AI Act, NIST AI RMF, CSA AICM, OWASP LLM + 10 more |
-| 🌍 Jurisdictions | 5 (UAE, EU, US, India, Global) |
-| 🤖 AI Types | 3 (Generative, Predictive, Automation) |
-| 🎯 Modes | Beginner (plain language) + Expert (auditor-grade) |
-| 💰 Cost | **Free** |
+### ISO 42001 AI Governance Toolkit *(this repo)*
+Practical templates and checklists for implementing ISO 42001 — the new international standard for AI management systems. Gap assessments, risk registers, controls mapping, and a Python automation script that checks assessment currency across your AI inventory.
 
-[![Try AI Risk Navigator](https://img.shields.io/badge/Try_AI_Risk_Navigator-Live_Demo-00C8E8?style=for-the-badge&logo=netlify&logoColor=white)](https://dapper-parfait-b1e231.netlify.app/)
+### EU AI Act Compliance Toolkit
+Same approach applied to the EU AI Act. Risk classification guide, conformity assessment checklist, FRIA template, technical documentation template, incident reporting procedure — all the stuff you actually need to operationalise the regulation, not just read about it.
 
 ---
 
-### 📋 Compliance Counselor Plus *(In Development)*
-> AI-powered InfoSec document creation & ITGC testing
+## 🤖 The AI Governance angle
 
-What used to take weeks — writing security policies, testing IT general controls, preparing audit evidence — now takes hours.
-- Automated policy & procedure document generation
-- ITGC test scripts with AI-assisted evidence mapping
-- Aligned to ISO 27001, SOC 2 & NIST frameworks
+I've been thinking about this for a while: most AI governance frameworks are written by lawyers and regulators for lawyers and regulators. The actual teams building and deploying AI systems — the engineers, the risk managers, the business owners — can't use them.
 
----
+My view is that governance has to be engineered, not just documented. That's why I pair every policy template with something executable: a checklist you can actually run, a script that automates the monitoring, a decision tree that gives you an answer rather than more questions.
 
-### 🎓 [Generative AI for Beginners](https://github.com/Ankit-Uniyal/generative-ai-for-beginners)
-Microsoft's 21-lesson GenAI course — studying AI fundamentals to better govern and secure it.
+That's what GRC Engineering means to me. Policy meets code.
 
 ---
 
-## 🏆 Certifications
+## 🧰 Tools & Frameworks I Work With
 
-<div align="center">
+**Frameworks:** ISO 27001 · ISO 42001 · EU AI Act · NIST CSF 2.0 · NIST AI RMF · SOC 2 · PCI-DSS · GDPR · NCA ECC · DORA
 
-### Core GRC & Audit
-![CISM](https://img.shields.io/badge/CISM-CC0000?style=for-the-badge&logoColor=white)
-![CISA](https://img.shields.io/badge/CISA-003087?style=for-the-badge&logoColor=white)
-![CRISC](https://img.shields.io/badge/CRISC-FF6B35?style=for-the-badge&logoColor=white)
-![COBIT](https://img.shields.io/badge/COBIT_2019-006400?style=for-the-badge&logoColor=white)
-![ITIL4](https://img.shields.io/badge/ITIL_4-9B59B6?style=for-the-badge&logoColor=white)
+**Tools:** ServiceNow GRC · Archer · Power BI · Python (for automation) · Excel (yes, still)
 
-### Security Standards
-![ISO27001](https://img.shields.io/badge/ISO_27001_Lead_Auditor-0052CC?style=for-the-badge&logoColor=white)
-![ISO42001](https://img.shields.io/badge/ISO_42001_Lead_Auditor-FF6B35?style=for-the-badge&logoColor=white)
-![ISO22301](https://img.shields.io/badge/ISO_22301_Lead_Auditor-006400?style=for-the-badge&logoColor=white)
-![ISO27701](https://img.shields.io/badge/ISO_27701_Lead_Implementer-003087?style=for-the-badge&logoColor=white)
-![SOC2](https://img.shields.io/badge/SOC_2-CC0000?style=for-the-badge&logoColor=white)
-
-### AI & Privacy
-![AISecL2](https://img.shields.io/badge/AI_Security_L2_(Securiti)-412991?style=for-the-badge&logoColor=white)
-![ISO27017](https://img.shields.io/badge/ISO_27017_Cloud-1E3A5F?style=for-the-badge&logoColor=white)
-![GDPR](https://img.shields.io/badge/GDPR_Officer-003366?style=for-the-badge&logoColor=white)
-![OneTrust](https://img.shields.io/badge/OneTrust_GRC_Pro-00C8E8?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-## 🧰 Technical Arsenal
-
-### Governance & Frameworks
-![ISO27001](https://img.shields.io/badge/ISO_27001-0052CC?style=flat-square&logoColor=white)
-![ISO42001](https://img.shields.io/badge/ISO_42001-FF6B35?style=flat-square&logoColor=white)
-![NISTCSF](https://img.shields.io/badge/NIST_CSF-003087?style=flat-square&logoColor=white)
-![EUAIACT](https://img.shields.io/badge/EU_AI_Act-003366?style=flat-square&logoColor=white)
-![COBIT](https://img.shields.io/badge/COBIT_19-006400?style=flat-square&logoColor=white)
-![SOC2](https://img.shields.io/badge/SOC_2-CC0000?style=flat-square&logoColor=white)
-![GDPR](https://img.shields.io/badge/GDPR-1E3A5F?style=flat-square&logoColor=white)
-![DORA](https://img.shields.io/badge/DORA-9B59B6?style=flat-square&logoColor=white)
-![PCIDSS](https://img.shields.io/badge/PCI_DSS-ED2025?style=flat-square&logoColor=white)
-![NCAECC](https://img.shields.io/badge/NCA_ECC-00C8E8?style=flat-square&logoColor=white)
-
-### Tools & Platforms
-![RSAArcher](https://img.shields.io/badge/RSA_Archer-CC0000?style=flat-square&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logoColor=white)
-![OneTrust](https://img.shields.io/badge/OneTrust-00C8E8?style=flat-square&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black)
-![TrendMicro](https://img.shields.io/badge/Trend_Micro-D71B1B?style=flat-square&logoColor=white)
-![GoogleGemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-
----
-
-## 🔍 Expertise Map
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║            GRC & INFORMATION SECURITY EXPERTISE             ║
-╠══════════════════╦══════════════════╦════════════════════════╣
-║   GOVERNANCE     ║      RISK        ║     COMPLIANCE         ║
-║                  ║                  ║                        ║
-║ • GRC Program    ║ • Risk Appetite  ║ • ISO 27001/42001      ║
-║   Leadership     ║   & Framework    ║ • SOC 2 Type II        ║
-║ • AI Governance  ║ • TPRM / VRMS    ║ • EU AI Act / DORA     ║
-║ • IT Audit       ║ • BIA & BCP      ║ • NCA ECC (UAE)        ║
-║ • Board Reports  ║ • Vuln. Mgmt.    ║ • PCI-DSS / GDPR       ║
-║ • ISO 42001      ║ • Supply Chain   ║ • NIST CSF 2.0         ║
-╚══════════════════╩══════════════════╩════════════════════════╝
-```
+**Certifications:** CISA · CRISC · CISM *(in progress)* · ISO 27001 Lead Auditor
 
 ---
 
@@ -163,25 +77,15 @@ Microsoft's 21-lesson GenAI course — studying AI fundamentals to better govern
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit-Uniyal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Uniyal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankit-Uniyal&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Uniyal&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
-## 💬 Let's Connect
+## 💬 Let's talk
 
-Looking to lead enterprise GRC transformation where AI security and regulatory resilience are mission-critical.
+If you're working on AI governance, building a GRC programme, or just trying to figure out what the EU AI Act actually requires your organisation to do — feel free to reach out. I'm always happy to compare notes.
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankituniyal8/)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://ankituniyalprofile.com/)
-[![AI Project](https://img.shields.io/badge/Try_AI_Risk_Navigator-00C8E8?style=for-the-badge&logo=netlify&logoColor=white)](https://dapper-parfait-b1e231.netlify.app/)
-
----
-
-<sub>⚡ I don't just manage risk — I architect resilience. | Dubai, UAE 🇦🇪 | ankituniyal619@gmail.com</sub>
-
-</div>
+📧 ankituniyal619@gmail.com &nbsp;|&nbsp; 🌍 Dubai, UAE 🇦🇪 &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/ankituniyal8/)
