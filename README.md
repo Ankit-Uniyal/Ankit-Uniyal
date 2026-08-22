@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ankit+Uniyal;GRC+and+Information+Security%2C+based+in+Dubai;AI+Governance+%7C+ISO+42001+%7C+EU+AI+Act+%7C+NIST+AI+RMF;Open-source+GRC+toolkits+that+you+can+actually+run" alt="Typing SVG" />
+## Hi, I'm Ankit Uniyal
+
+**GRC and Information Security, based in Dubai, UAE**
+
+AI Governance · ISO 42001 · EU AI Act · NIST AI RMF · Open-source GRC toolkits
 
 <br/>
 
