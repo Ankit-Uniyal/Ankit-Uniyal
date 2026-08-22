@@ -19,7 +19,7 @@ AI Governance · ISO 42001 · EU AI Act · NIST AI RMF · Open-source GRC toolki
 
 ## 🛡️ About Me
 
-I'm Ankit, a GRC and information security professional based in Dubai, UAE, working in this field since 2017. Most of my work is the unglamorous half of the job: working out what an organisation's real risks are, then building something that addresses them rather than documenting that someone once thought about them.
+I'm Ankit, a GRC and information security professional based in Dubai, UAE, working in this field since 2017. Most of the job is working out what an organisation's real risks actually are, and then building something that addresses them.
 
 Right now I'm GRC Lead at PureHealth Group. The scope is compliance across SEHA's 14 hospitals and 70+ clinics, against 6,800+ controls. The result I'd point to is KPI breach rates coming down from 40% to 3%, which was mostly process redesign and a lot of conversations with people who had good reasons to be sceptical.
 
@@ -55,8 +55,7 @@ Three more live tools sit on my portfolio rather than here: the AI Governance Hu
 
 ### Open-source toolkits
 
-Every one of these pairs templates with something executable, not just documentation.
-
+Each one pairs templates with something you can run.
 
 | Repository | Area | What's inside |
 |------------|------|---------------|
