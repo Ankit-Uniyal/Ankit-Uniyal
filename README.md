@@ -19,9 +19,9 @@ AI Governance · ISO 42001 · EU AI Act · NIST AI RMF · Open-source GRC toolki
 
 ## 🛡️ About Me
 
-I'm Ankit, a GRC and information security professional based in Dubai, UAE. Most of my work is the unglamorous half of the job: working out what an organisation's real risks are, then building something that addresses them rather than documenting that someone once thought about them.
+I'm Ankit, a GRC and information security professional based in Dubai, UAE, working in this field since 2017. Most of my work is the unglamorous half of the job: working out what an organisation's real risks are, then building something that addresses them rather than documenting that someone once thought about them.
 
-Right now I'm GRC Lead at PureHealth Group. The scope is compliance across SEHA's 14 hospitals and 70+ clinics, against roughly 4,000 controls. The result I'd point to is KPI breach rates coming down from 40% to 3%, which was mostly process redesign and a lot of conversations with people who had good reasons to be sceptical.
+Right now I'm GRC Lead at PureHealth Group. The scope is compliance across SEHA's 14 hospitals and 70+ clinics, against 6,800+ controls. The result I'd point to is KPI breach rates coming down from 40% to 3%, which was mostly process redesign and a lot of conversations with people who had good reasons to be sceptical.
 
 Before this I worked at Oman Arab Bank, Equifax, Deloitte and PwC, across banking regulation, fintech audit and consulting.
 
@@ -33,11 +33,13 @@ Lately most of my attention is on AI governance. ISO 42001 has been published si
 
 | Period | Role | Where | What I did |
 |--------|------|-------|------------|
-| 2025 to present | GRC Lead | PureHealth Group, Abu Dhabi | Built the compliance programme across SEHA facilities; brought KPI breach rates from 40% down to 3% |
-| 2024 to 2025 | IT Assurance & Compliance Manager | Oman Arab Bank, Muscat | Built audit tracking dashboards; closed 60% of high-risk findings; reported to the Board |
-| 2024 | Information Security Manager | Equifax, India | Reached ISO 27001, ISO 42001 and RBI readiness in four months; used Gemini in compliance workflows |
-| 2022 to 2024 | Deputy Manager | Deloitte, India | Led SOC 2, ISO 27001, ISO 22301 and NIST audits; managed a team of four senior consultants |
-| 2021 to 2022 | Assistant Manager | PwC, India | Risk and controls work across oil and gas, fintech and retail |
+| 2025 to present | GRC Lead | PureHealth Group, Abu Dhabi | Built the compliance programme across SEHA facilities in RSA Archer; brought KPI breach rates from 40% down to 3%; accelerated project delivery by 35% |
+| 2024 to 2025 | IT Assurance & Compliance Manager | Oman Arab Bank, Muscat | Built audit tracking dashboards; closed 60% of aging high-risk findings; reported to the CTO, CISO and Board |
+| 2024 | Information Security Manager | Equifax, Bangalore | Drove ISO 42001 readiness alongside ISO 27001 and RBI audit readiness in four months; embedded Gemini in the control workflow, cutting documentation effort by 30% |
+| 2022 to 2024 | Deputy Manager | Deloitte, Bangalore | Led SOC 2 (Telenor Norway), ISO 27001, ISO 22301, ITGC and NIST audits end to end; supervised four senior consultants |
+| 2021 to 2022 | Assistant Manager | PwC, Bangalore | Risk and controls across oil and gas, fintech, retail, e-commerce and automotive |
+
+Earlier, 2017 to 2021: Control Case International (InfoSec Consultant), Sikraft Infotech (ISO IMS Auditor), RSM International (Sr. Officer, Operations Consulting), Merieux NutriSciences (Technical Auditor).
 
 ---
 
@@ -49,9 +51,12 @@ A free browser-based assessment that maps AI exposure across ISO 42001, the EU A
 
 **[Open the AI Risk Navigator →](https://airisknevigator.netlify.app/)**
 
+Three more live tools sit on my portfolio rather than here: the AI Governance Hub (ISO 42001, NIST AI RMF and the EU AI Act cross-mapped clause by clause), the UAE AI GRC platform (one control library across 8 UAE and international frameworks), and the AI Model Card Whiteboard. **[See them on ankituniyalprofile.com →](https://ankituniyalprofile.com/#projects)**
+
 ### Open-source toolkits
 
 Every one of these pairs templates with something executable, not just documentation.
+
 
 | Repository | Area | What's inside |
 |------------|------|---------------|
@@ -81,11 +86,11 @@ A fair amount of what is in these repos is a first attempt, and this is not the 
 
 ## 🧰 Tools & Frameworks
 
-**Frameworks:** ISO 27001 · ISO 42001 · ISO 27701 · ISO 27017/27018 · EU AI Act · NIST CSF 2.0 · NIST AI RMF · SOC 2 · PCI DSS · GDPR · NCA ECC · DORA · CBUAE Responsible AI
+**Frameworks:** ISO 27001 · ISO 42001 · ISO 27701 · ISO 27017/27018 · ISO 22301 · EU AI Act · NIST CSF 2.0 · NIST AI RMF · SOC 2 · PCI DSS · GDPR · COBIT 2019 · NCA ECC · DORA · CBUAE Responsible AI
 
-**Tools:** ServiceNow GRC · Archer · Power BI · Python · Excel
+**Tools:** RSA Archer · ServiceNow GRC · OneTrust · Power BI · Python · Excel
 
-**Certifications:** CISA · CRISC · CISM · ISO 27001 Lead Auditor
+**Certifications:** CISA · CRISC · CISM · AAISM · ISO 27001 Lead Auditor
 
 ---
 
