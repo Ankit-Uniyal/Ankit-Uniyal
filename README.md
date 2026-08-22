@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankit+Uniyal;GRC+%26+Information+Security+Leader;AI+Governance+%7C+ISO+42001+%7C+NIST+AI+RMF;I+don't+just+manage+risk+%E2%80%94+I+architect+resilience." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ankit+Uniyal;GRC+and+Information+Security%2C+based+in+Dubai;AI+Governance+%7C+ISO+42001+%7C+EU+AI+Act+%7C+NIST+AI+RMF;Open-source+GRC+toolkits+that+you+can+actually+run" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankituniyal8/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://ankituniyalprofile.com/)
-[![AI Risk Navigator](https://img.shields.io/badge/AI_Risk_Navigator-0D1117?style=for-the-badge&logo=openai&logoColor=white)](https://dapper-parfait-b1e231.netlify.app/)
+[![AI Risk Navigator](https://img.shields.io/badge/AI_Risk_Navigator-0D1117?style=for-the-badge&logo=openai&logoColor=white)](https://airisknevigator.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankituniyal619@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Ankit-Uniyal&color=blue&style=for-the-badge)
 
 </div>
 
@@ -16,76 +15,78 @@
 
 ## 🛡️ About Me
 
-I'm Ankit — a GRC and Information Security professional based in Dubai, UAE. I've spent the last decade helping organisations figure out what their real risks are (not just what looks good on a dashboard), and building systems to actually do something about them.
+I'm Ankit, a GRC and information security professional based in Dubai, UAE. Most of my work is the unglamorous half of the job: working out what an organisation's real risks are, then building something that addresses them rather than documenting that someone once thought about them.
 
-Right now I'm the GRC Lead at PureHealth Group — the UAE's largest healthcare platform. That means overseeing compliance across 100+ hospitals and 4,000+ controls, which sounds impressive until you're the one responsible for making it actually work. The thing I'm most proud of there is bringing KPI breach rates down from 40% to 3%. That took a lot of persuasion, process redesign, and more than a few late nights.
+Right now I'm GRC Lead at PureHealth Group. The scope is compliance across SEHA's 14 hospitals and 70+ clinics, against roughly 4,000 controls. The result I'd point to is KPI breach rates coming down from 40% to 3%, which was mostly process redesign and a lot of conversations with people who had good reasons to be sceptical.
 
-Before PureHealth, I worked at Oman Arab Bank, Equifax, Deloitte, and PwC. Each was a different challenge — banking regulations, fintech audit, Big 4 consulting. What they had in common was that compliance was often treated as a box-ticking exercise. I've always pushed back on that.
+Before this I worked at Oman Arab Bank, Equifax, Deloitte and PwC, across banking regulation, fintech audit and consulting.
 
-Lately I've been going deep on AI Governance. ISO 42001 just dropped and the EU AI Act is becoming real — and most organisations have no idea how to actually implement either. That's the gap I'm trying to close, both in my day job and through some open-source work here on GitHub.
+Lately most of my attention is on AI governance. ISO 42001 has been published since 2023 and the EU AI Act timeline keeps moving, but the harder problem is that very few organisations have a workable path from the text of either standard to something a team can actually run. That gap is what I work on, in my day job and in the open-source toolkits below.
 
 ---
 
 ## 📊 Career in Brief
 
-| Period | Role | Where | What I actually did |
-|--------|------|--------|---------------------|
-| 2025–Present | GRC Lead | PureHealth Group, Abu Dhabi | Reduced KPI breaches from 40% → 3%; built compliance programme across 100+ SEHA facilities |
-| 2024–2025 | IT Assurance & Compliance Manager | Oman Arab Bank, Muscat | Built AI-powered dashboards for audit tracking; resolved 60% of high-risk findings; reported to Board |
-| 2024 | Information Security Manager | Equifax, India | Got to ISO 27001/42001/RBI readiness in 4 months; integrated Google Gemini for compliance workflows |
-| 2022–2024 | Deputy Manager | Deloitte, India | Led SOC 2, ISO 27001, ISO 22301, NIST audits; managed a team of 4 senior consultants |
-| 2021–2022 | Assistant Manager | PwC, India | Covered risk and controls across Oil & Gas, Fintech, and Retail |
+| Period | Role | Where | What I did |
+|--------|------|-------|------------|
+| 2025 to present | GRC Lead | PureHealth Group, Abu Dhabi | Built the compliance programme across SEHA facilities; brought KPI breach rates from 40% down to 3% |
+| 2024 to 2025 | IT Assurance & Compliance Manager | Oman Arab Bank, Muscat | Built audit tracking dashboards; closed 60% of high-risk findings; reported to the Board |
+| 2024 | Information Security Manager | Equifax, India | Reached ISO 27001, ISO 42001 and RBI readiness in four months; used Gemini in compliance workflows |
+| 2022 to 2024 | Deputy Manager | Deloitte, India | Led SOC 2, ISO 27001, ISO 22301 and NIST audits; managed a team of four senior consultants |
+| 2021 to 2022 | Assistant Manager | PwC, India | Risk and controls work across oil and gas, fintech and retail |
 
 ---
 
 ## 🚀 What I'm Building
 
 ### AI Risk Navigator
-A free tool for assessing AI risk without needing to read 500-page frameworks first. Four questions, about five minutes, plain-language results. It covers ISO 42001, the EU AI Act, NIST AI RMF, and a few others — and works whether you're a beginner trying to understand what's at risk, or an auditor who needs structured outputs.
 
-[Try it here →](https://dapper-parfait-b1e231.netlify.app/)
+A free browser-based assessment that maps AI exposure across ISO 42001, the EU AI Act, NIST AI RMF and 15+ other frameworks, with regulator-level detail for the UAE, EU, India, Singapore and three more jurisdictions. Twelve risk domains, about four minutes, no signup, nothing leaves your browser.
 
-### ISO 42001 AI Governance Toolkit *(this repo)*
-Practical templates and checklists for implementing ISO 42001 — the new international standard for AI management systems. Gap assessments, risk registers, controls mapping, and a Python automation script that checks assessment currency across your AI inventory.
+**[Open the AI Risk Navigator →](https://airisknevigator.netlify.app/)**
 
-### EU AI Act Compliance Toolkit
-Same approach applied to the EU AI Act. Risk classification guide, conformity assessment checklist, FRIA template, technical documentation template, incident reporting procedure — all the stuff you actually need to operationalise the regulation, not just read about it.
+### Open-source toolkits
 
----
+Every one of these pairs templates with something executable, not just documentation.
 
-## 🤖 The AI Governance angle
-
-I've been thinking about this for a while: most AI governance frameworks are written by lawyers and regulators for lawyers and regulators. The actual teams building and deploying AI systems — the engineers, the risk managers, the business owners — can't use them.
-
-My view is that governance has to be engineered, not just documented. That's why I pair every policy template with something executable: a checklist you can actually run, a script that automates the monitoring, a decision tree that gives you an answer rather than more questions.
-
-That's what GRC Engineering means to me. Policy meets code.
-
----
-
-## 🧰 Tools & Frameworks I Work With
-
-**Frameworks:** ISO 27001 · ISO 42001 · EU AI Act · NIST CSF 2.0 · NIST AI RMF · SOC 2 · PCI-DSS · GDPR · NCA ECC · DORA
-
-**Tools:** ServiceNow GRC · Archer · Power BI · Python (for automation) · Excel (yes, still)
-
-**Certifications:** CISA · CRISC · CISM *(in progress)* · ISO 27001 Lead Auditor
+| Repository | Area | What's inside |
+|------------|------|---------------|
+| [iso-42001-ai-governance-toolkit](https://github.com/Ankit-Uniyal/iso-42001-ai-governance-toolkit) | AI management systems | Gap assessment, risk register, controls mapping, Python script that checks assessment currency across an AI inventory |
+| [eu-ai-act-compliance-toolkit](https://github.com/Ankit-Uniyal/eu-ai-act-compliance-toolkit) | EU AI Act | Risk classification, conformity assessment checklist, FRIA template, technical documentation, incident reporting |
+| [shadow-ai-scanner](https://github.com/Ankit-Uniyal/shadow-ai-scanner) | Shadow AI discovery | Endpoint-local inventory of AI tools, agents, extensions and credentials, with risk-scored GRC-ready reports |
+| [iso-27001-isms-toolkit](https://github.com/Ankit-Uniyal/iso-27001-isms-toolkit) | Information security | Gap assessment, risk register, SoA covering all 93 Annex A controls, implementation roadmap |
+| [iso-27701-pims-toolkit](https://github.com/Ankit-Uniyal/iso-27701-pims-toolkit) | Privacy | ISO 27701:2025 edition, DPIA, TIA, privacy by default, joint controller guidance |
+| [iso-27017-27018-cloud-security-toolkit](https://github.com/Ankit-Uniyal/iso-27017-27018-cloud-security-toolkit) | Cloud security | Cloud risk register, SoA with extended controls, PII protection in public clouds |
+| [grc-automation-toolkit](https://github.com/Ankit-Uniyal/grc-automation-toolkit) | GRC operations | Policy management, control testing, evidence collection, asset inventory, access reviews, vendor risk |
+| [ServiceNow-IRM-Toolkit](https://github.com/Ankit-Uniyal/ServiceNow-IRM-Toolkit) | Tooling | Modules, workflows, GlideRecord scripts and audit queries for ServiceNow IRM |
+| [DORA-Implementation-Toolkit](https://github.com/Ankit-Uniyal/DORA-Implementation-Toolkit) | Financial services | Digital operational resilience implementation material |
+| [UAE-AI-Compliance-Guide](https://github.com/Ankit-Uniyal/UAE-AI-Compliance-Guide) | UAE banking and fintech | CBUAE Responsible AI Guidance Note, CBUAE Model Management Standards, UAE AI Charter |
+| [AI-Risk-Program-UAE-Europe](https://github.com/Ankit-Uniyal/AI-Risk-Program-UAE-Europe) | Programme design | Governance, policies, risk taxonomy, assessment methodology, vendor management, controls |
 
 ---
 
-## 📈 GitHub Activity
+## 🤖 On AI governance
 
-<div align="center">
+Most AI governance material is written by lawyers and regulators, for lawyers and regulators. The people who actually build and deploy AI systems are rarely the intended audience, and it shows when you hand them a framework and ask them to comply with it.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankit-Uniyal&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Uniyal&layout=compact&theme=dark&hide_border=true)
+So I try to pair every policy template with something executable: a checklist that can be run, a script that automates part of the monitoring, a decision tree that returns an answer instead of more questions. That is what GRC engineering means to me. Policy meets code.
 
-</div>
+A fair amount of what is in these repos is a first attempt, and this is not the only reasonable way to approach it. Corrections and pull requests are welcome.
+
+---
+
+## 🧰 Tools & Frameworks
+
+**Frameworks:** ISO 27001 · ISO 42001 · ISO 27701 · ISO 27017/27018 · EU AI Act · NIST CSF 2.0 · NIST AI RMF · SOC 2 · PCI DSS · GDPR · NCA ECC · DORA · CBUAE Responsible AI
+
+**Tools:** ServiceNow GRC · Archer · Power BI · Python · Excel
+
+**Certifications:** CISA · CRISC · CISM · ISO 27001 Lead Auditor
 
 ---
 
 ## 💬 Let's talk
 
-If you're working on AI governance, building a GRC programme, or just trying to figure out what the EU AI Act actually requires your organisation to do — feel free to reach out. I'm always happy to compare notes.
+If you are working on AI governance, standing up a GRC programme, or trying to work out what the EU AI Act actually requires of your organisation, feel free to reach out. Happy to compare notes, and just as happy to be told where I have got something wrong.
 
-📧 ankituniyal619@gmail.com &nbsp;|&nbsp; 🌍 Dubai, UAE 🇦🇪 &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/ankituniyal8/)
+📧 ankituniyal619@gmail.com &nbsp;|&nbsp; 🌍 Dubai, UAE 🇦🇪 &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/ankituniyal8/) &nbsp;|&nbsp; [Portfolio](https://ankituniyalprofile.com/)
