@@ -21,7 +21,7 @@ AI Governance · ISO 42001 · EU AI Act · NIST AI RMF · Open-source GRC toolki
 
 I'm Ankit, a GRC and information security professional based in Dubai, UAE, working in this field since 2017. Most of the job is working out what an organisation's real risks actually are, and then building something that addresses them.
 
-Right now I'm GRC Lead at PureHealth Group. The scope is compliance across SEHA's 14 hospitals and 70+ clinics, against 6,800+ controls. The result I'd point to is KPI breach rates coming down from 40% to 3%, which was mostly process redesign and a lot of conversations with people who had good reasons to be sceptical.
+Right now I'm GRC Lead at PureHealth Group, covering SEHA, Daman, SSMC, SKMC, SEHA Clinic, Rafeed and Riayati, against 6,800+ controls. The result I'd point to is KPI breach rates coming down from 40% to 3%, which was mostly process redesign and a lot of conversations with people who had good reasons to be sceptical.
 
 Before this I worked at Oman Arab Bank, Equifax, Deloitte and PwC, across banking regulation, fintech audit and consulting.
 
@@ -33,7 +33,7 @@ Lately most of my attention is on AI governance. ISO 42001 has been published si
 
 | Period | Role | Where | What I did |
 |--------|------|-------|------------|
-| 2025 to present | GRC Lead | PureHealth Group, Abu Dhabi | Built the compliance programme across SEHA facilities in RSA Archer; brought KPI breach rates from 40% down to 3%; accelerated project delivery by 35% |
+| 2025 to present | GRC Lead | PureHealth Group, Abu Dhabi | Risk assessments and compliance across SEHA, Daman, SSMC, SKMC, SEHA Clinic, Rafeed and Riayati, run through RSA Archer; KPI breach rates from 40% down to 3%; project delivery up 35% |
 | 2024 to 2025 | IT Assurance & Compliance Manager | Oman Arab Bank, Muscat | Built audit tracking dashboards; closed 60% of aging high-risk findings; reported to the CTO, CISO and Board |
 | 2024 | Information Security Manager | Equifax, Bangalore | Drove ISO 42001 readiness alongside ISO 27001 and RBI audit readiness in four months; embedded Gemini in the control workflow, cutting documentation effort by 30% |
 | 2022 to 2024 | Deputy Manager | Deloitte, Bangalore | Led SOC 2 (Telenor Norway), ISO 27001, ISO 22301, ITGC and NIST audits end to end; supervised four senior consultants |
